@@ -8,15 +8,15 @@ Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API w
 
 ## Getting Started
 
-1. Create a repository from this template repository <https://github.com/johnpapa/shopathome/generate>
+1. If not created already, create a repository from this template repository <https://github.com/johnpapa/shopathome/generate>
 
-1. Enter the name of your new repository as _my-static-web-app_
+1. Enter the name of your new repository as _shopathome_
 
 1. Clone your new repository
 
    ```bash
-   git clone https://github.com/your-github-organization/my-static-web-app
-   cd my-static-web-app/react-app
+   git clone https://github.com/<YOUR_GITHUB_ORGANISATION>/shopathome.git
+   cd _shopathome/react-app
    ```
 
 1. Install the npm packages

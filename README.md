@@ -1,6 +1,6 @@
 # Static Web Apps
 
-This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
+This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer - Angular, Svelte, React or Vue.
 
 The Shop at Home theme is used throughout the app. View it live at <https://www.shopathome.dev>
 
@@ -8,7 +8,8 @@ The Shop at Home theme is used throughout the app. View it live at <https://www.
 
 ## Learn how
 
-Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-0000-jopapa)
+[Quickstart - Create and deploy your Azure Static Web App](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript/?WT.mc_id=academic-0000-jopapa)
+
 
 ## Contents
 
@@ -26,10 +27,9 @@ The apps written in the following JavaScript frameworks/libraries:
 
 - A GitHub account
 - [Node.js and Git](https://nodejs.org/)
-- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-jopapa) installed
-- The [Static Web Apps extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=shopathome-github-jopapa&WT.mc_id=academic-0000-jopapa) installed
-- The [SWA CLI](https://www.npmjs.com/package/@azure/static-web-apps-cli) installed
-- The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=academic-0000-jopapa) installed
+- For running APIs, have the [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=academic-0000-jopapa) installed
+- If you are using the [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-jopapa), kindly install the [Static Web Apps extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=shopathome-github-jopapa&WT.mc_id=academic-0000-jopapa).
+- Or if you'd like to use the SWA command line tool, install [SWA CLI](https://github.com/Azure/static-web-apps-cli#readme).
 
 ## Problems or Suggestions
 
