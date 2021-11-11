@@ -27,7 +27,7 @@ The apps written in the following JavaScript frameworks/libraries:
 
 - A GitHub account
 - [Node.js and Git](https://nodejs.org/)
-- For running APIs, have the [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=academic-0000-jopapa) installed
+- For running APIs, you must have the [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=academic-0000-jopapa) installed
 - If you are using the [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-jopapa), kindly install the [Static Web Apps extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=shopathome-github-jopapa&WT.mc_id=academic-0000-jopapa).
 - Or if you'd like to use the SWA command line tool, install [SWA CLI](https://github.com/Azure/static-web-apps-cli#readme).
 
