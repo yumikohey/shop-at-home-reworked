@@ -1,10 +1,6 @@
 # Static Web Apps
 
-<<<<<<< HEAD
 This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer - Angular, Svelte, React or Vue.
-=======
-This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
->>>>>>> upstream/main
 
 The Shop at Home theme is used throughout the app. View it live at <https://www.shopathome.dev>
 
@@ -12,12 +8,8 @@ The Shop at Home theme is used throughout the app. View it live at <https://www.
 
 ## Learn how
 
-<<<<<<< HEAD
 [Quickstart - Create and deploy your Azure Static Web App](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript/?WT.mc_id=academic-0000-jopapa)
 
-=======
-Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-0000-jopapa)
->>>>>>> upstream/main
 
 ## Contents
 
